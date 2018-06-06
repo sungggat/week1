@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		88FE739120C7F90800CCBB40 /* week1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = week1; sourceTree = BUILT_PRODUCTS_DIR; };
-		88FE739420C7F90800CCBB40 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		88FE739420C7F90800CCBB40 /* main.cpp */ = {isa = PBXFileReference; explicitFileType = text.script.python; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
